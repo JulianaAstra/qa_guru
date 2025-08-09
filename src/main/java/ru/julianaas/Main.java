@@ -9,6 +9,7 @@ public class Main {
         String helloText = "Hellooo, qa guru!";
 
         System.out.printf(helloText);
+        System.out.printf("Hello and welcome!");
 
 
         for (int i = 1; i <= 9; i++) {
